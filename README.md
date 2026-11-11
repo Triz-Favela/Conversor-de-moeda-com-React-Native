@@ -84,8 +84,8 @@ A aplicação segue estritamente o padrão de arquitetura **MVVM** para separar 
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/Triz-Favela/Conversor-de-moeda-com-React-Native.git
+   cd Conversor-de-moeda-com-React-Native
    ```
 
 2. **Instale as dependências:**
